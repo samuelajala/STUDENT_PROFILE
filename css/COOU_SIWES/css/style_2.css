@@ -1,0 +1,73 @@
+header {
+    background-color: #F0677C;
+    color: #fff;
+    padding: 10px;
+    text-align: right;
+}
+
+footer {
+    padding: 10px;
+    color: #fff;
+    font-size: 12px;
+    background-color: #C36464;
+}
+
+    footer a, footer a:hover {
+        color: #fff;
+        text-decoration: none;
+    }
+.Compose-Message{
+    width: 500px;
+    
+    
+}
+.media>.pull-left{
+  margin-right: 20px;
+}
+
+.media>.pull-right{
+  margin-left: 20px;
+}
+
+#footer {
+  background: #555555;
+  padding: 50px 0;
+  color: gold;
+}
+#footer h1,
+#footer h2,
+#footer h3,
+#footer h4,
+#footer h5,
+#footer h6 {
+  color: gold;
+}
+#footer h4 {
+  font-size: 14px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+#copyright {
+  background: black;
+  color: gold;
+  padding: 50px 0;
+  font-size: 12px;
+  line-height: 28px;
+}
+#copyright p {
+  margin: 0;
+}
+
+.learn-overflow{
+    background-color: #eee;
+    width: 200px;
+    height: auto;
+    border: 1px dotted black;
+    overflow: auto;
+}
+img {
+    float: right;
+    margin: 0 0 10px 10px;
+}
